@@ -11,4 +11,3 @@
 ![](https://mmbiz.qpic.cn/mmbiz_png/hflWRBRSEZ6lJ8RnicB8L9m1dRV5C3A7bZgAgd1VbicOrbcCJOpw2Kh4OzibqFPGBy7NZuOjaurgO57EhVKQgB9rA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 为了让 AI 知识得到传播，为了让读者更方便地阅读这些文章，红色石头特意将 2020 年 AI有道原创文章进行了整理和打包，制作了电子版合集。共 6 大主题，161 篇精选文章，1759 页，52 万字，320M，有超过 400,000 次的阅读。整个电子书阅读包含标签、目录，非常方便。
-
